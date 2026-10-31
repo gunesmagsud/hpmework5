@@ -1,5 +1,6 @@
 import { useState } from 'react'
 import './App.css'
+import React from 'react'
 
 function App() {
   let siyahi = ["Rock", "Paper","Scissors"]
@@ -27,7 +28,7 @@ function App() {
   <button onClick={() => setNum("Rock")}>Rock</button>
 
   <button onClick={() => setNum("Paper")}>Paper</button>
-  
+
   <button onClick={() => setNum("Scissors")}>Scissors</button>
 </h2>
  <h3>Robot {robot} secdi Sen {num} secdin {n}</h3>
