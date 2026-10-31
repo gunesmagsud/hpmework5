@@ -3,17 +3,7 @@
   text-align: center;
   text-shadow: 3px 9px 7px black;
   text-decoration-style: initial;
-  
 }
-  background-color: rgba(128, 128, 128, 0.613);
-  box-shadow: black 4px 9px 7px;
-  border-radius: 25%;
-  height: 50px;
-  width: 80px;
-  cursor: pointer;
-  border: solid black;
-}
-
 .counter {
   font-size: 16px;
   padding: 5px 10px;
