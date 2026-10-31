@@ -3,6 +3,6 @@ import { defineConfig } from 'vite'
 
 // https://vite.dev/config/
 export default defineConfig({
-  base:"/hpomework4/",
+  base:"/hpmework4/",
   plugins: [react()],
 })
